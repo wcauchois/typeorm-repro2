@@ -1,0 +1,4 @@
+db.sqlite
+*.swp
+node_modules
+dist
